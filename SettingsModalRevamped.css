@@ -42,7 +42,7 @@
 	bottom: 0 !important;
 	left: 0 !important;
 	background: var(--settingsbackground_v) !important;
-	border-radius: 5px !important;
+	border-radius: 15px !important;
 	box-shadow: var(--elevation-high) !important;
 	width: var(--settingswidth_v) !important;
 	height: var(--settingsheight_v) !important;

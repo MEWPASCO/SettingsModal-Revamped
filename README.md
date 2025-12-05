@@ -13,10 +13,10 @@
 Creates a small pop-up like window for the Settings Modal instead of it being a wasted fullscreen!
 
 Before:
-![Image](https://github.com/user-attachments/assets/11b9f9d9-5cb0-47f9-a741-42601210349b)
+![Image](https://github.com/user-attachments/assets/15e4660a-1825-4ab7-a85c-a463394d1b1f)
 
 After:
-![Image](https://github.com/user-attachments/assets/22d5bcf8-c940-42a6-92e3-3259bd0b04e4)
+![Image](https://github.com/user-attachments/assets/4383cb2f-6c07-4b93-b419-dac3e18088f2)
 
 # Installing it to your Discord
 
