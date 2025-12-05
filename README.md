@@ -13,10 +13,10 @@
 Creates a small pop-up like window for the Settings Modal instead of it being a wasted fullscreen!
 
 Before:
-![Image](xxx)
+![Image](https://github.com/user-attachments/assets/11b9f9d9-5cb0-47f9-a741-42601210349b)
 
 After:
-![Image](xxx)
+![Image](https://github.com/user-attachments/assets/22d5bcf8-c940-42a6-92e3-3259bd0b04e4)
 
 # Installing it to your Discord
 
@@ -24,7 +24,7 @@ Use [Vencord](https://github.com/Vendicated/Vencord) or an equivalent client mod
 
 Paste the following link into your online theme links:
 ```
-https://raw.githubusercontent.com/MEWPASCO/xxx
+https://raw.githubusercontent.com/MEWPASCO/SettingsModal-Revamped/master/SettingsModalRevamped.css
 ```
 
 ### Other method 
@@ -33,20 +33,5 @@ Paste this into your QuickCSS (Or any non-Vencord equivalent) to make it a littl
 > Must be at the top of your code, @import does not work otherwise - this is for all the @import code you might have - put it to the top!  
 ```
 /* Change visual refresh title bar */
-@import url('https://raw.githubusercontent.com/MEWPASCO/xxx/main/xxx');
-```
-
-### Important Notice
-**If you are on a browser, Vesktop, or a client which does not come with window controls, this fork is not aimed at you**
-
-Alternatively if your client does not support online themes you can download the theme file found in this repository and put it into your theme folder.
-
-# Configuration
-
-Put this into your QuickCSS (Or any non-Vencord equivalent) to configure some behavior of this theme:
-```css
-/* SettingsModal Revamped Config */
-:root {
-xxx
-}
+@import url('https://raw.githubusercontent.com/MEWPASCO/SettingsModal-Revamped/master/SettingsModalRevamped.css');
 ```
